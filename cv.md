@@ -1,7 +1,7 @@
 # rsschool-cv
 ***
 ## Makavetskaya Tatsiana
-<img width="150" alt="photo" src="https://user-images.githubusercontent.com/90634573/208473380-58334866-1f3d-406b-87e5-cef3c966a87d.png">
+<img width="160" alt="photo" src="https://user-images.githubusercontent.com/90634573/208473380-58334866-1f3d-406b-87e5-cef3c966a87d.png">
 
 ***
 ### Contacts
