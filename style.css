@@ -127,9 +127,10 @@ body{
 
 .about-text{
     margin-top: 30px;
-    max-width: 75%;
+    max-width: 85%;
     font-size: 20px;
-    text-align: start;
+    text-align:justify;
+    line-height: 30px
 }
 
 span{
